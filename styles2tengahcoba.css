@@ -24,7 +24,7 @@ body {
     justify-content: center;
     align-items: center;
     letter-spacing: -0.2px;
-    background-image: url(./assets/2.png);
+    background-image: url(./assets/2.PNG);
   
     background-color: var(--bg-color);
 }
